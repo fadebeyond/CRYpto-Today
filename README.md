@@ -6,7 +6,7 @@
 Using Rapid API ,React, Redux Tool Kit- CRYpto today is a website to tell you all about crypto worldsome of its features include:
 
 -Information Regarding 100 cryptocurrencies
--Line chart showing change in price over different period of time
--Useful links related to different coins
--News regarding different coins
--Information regarding available exchanges
+-Line chart showing change in price over different period of time.
+-Useful links related to different coins.
+-News regarding different coins.
+-Information regarding available exchanges.
